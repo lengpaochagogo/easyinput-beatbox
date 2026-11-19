@@ -4,6 +4,14 @@
 
 > 板子守着拍子和声音。电脑只负责看见、改谱、同步。
 
+## 关于本仓库
+
+本仓库是 [Zhaohan-Wang/easyinput-beatbox](https://github.com/Zhaohan-Wang/easyinput-beatbox) 的复刻学习版本（原项目采用 MIT License，版权归原作者所有），用于个人学习 ESP32-S3 固件开发、I2S 音频时序与 USB Serial 主机协议。
+
+- 原项目地址：https://github.com/Zhaohan-Wang/easyinput-beatbox
+- 硬件基础：[CY-CHENYUE/easyinput-board-cy](https://github.com/CY-CHENYUE/easyinput-board-cy)（EasyInput V2.0 开发板）
+- 授权协议：MIT（见 [LICENSE](LICENSE)），第三方素材遵循其所在目录标注的原始许可条款
+
 本项目建立在 [CY-CHENYUE/easyinput-board-cy](https://github.com/CY-CHENYUE/easyinput-board-cy) 开发板项目之上。该仓库提供 EasyInput V2.0 的硬件资料、板级安全边界和 AI 开发上下文；本仓库在这套硬件基础上实现 Beatbox 的固件、音频引擎、音序器、网页应用与课程资料。
 
 ![EasyInput Beatbox 网页控制界面](docs/course/figures/png/07-beatbox-web-app.png)
